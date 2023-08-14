@@ -1,6 +1,11 @@
 ### Hi there 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GleristonCastro&show_icons=true&theme=transparent)
+<a href="https://github.com/GleristonCastro/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=GleristonCastro&bg_color=00000000&show_icons=true&hide_border=true" />
+</a>
+<a href="https://github.com/GleristonCastro/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=GleristonCastro&layout=compact&langs_count=8&card_width=32&bg_color=00000000&hide_border=true" />
+</a>
 
 <!--
 **GleristonCastro/GleristonCastro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
