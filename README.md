@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=296ECB&size=35&center=true&vCenter=true&width=1000&lines=Hi+there,+My+name+is+Gleriston+Castro;I'm+39+years+old;I'm+from+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg)
+## My name is Gleriston and I'm from Brazil, I'm 39 years old. Javascript Fullstack Developer
 
 <div style="
     margin: 0 53px;
