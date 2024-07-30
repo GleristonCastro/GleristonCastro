@@ -8,46 +8,46 @@
 
 ### My social
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gleriston/)
-[![Discord](https://img.shields.io/badge/Discord-161B22?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@gleristoncastro/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-161B22?style=for-the-badge&logo=todoist&logoColor=white)](https://gleristoncastro.com.br)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=1F6FEB)](https://www.linkedin.com/in/gleriston/)
+[![Discord](https://img.shields.io/badge/Discord-161B22?style=for-the-badge&logo=discord&logoColor=1F6FEB)](https://discord.com/channels/@gleristoncastro/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-161B22?style=for-the-badge&logo=todoist&logoColor=1F6FEB)](https://gleristoncastro.com.br)
 
 ### Techs
-![Markdown](https://img.shields.io/badge/Markdown-161B22?style=for-the-badge&logo=markdown)
-![HTML5](https://img.shields.io/badge/HTML5-161B22?style=for-the-badge&logo=html5&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-161B22?style=for-the-badge&logo=markdown&logoColor=1F6FEB)
+![HTML5](https://img.shields.io/badge/HTML5-161B22?style=for-the-badge&logo=html5&logoColor=1F6FEB)
 
-![CSS3](https://img.shields.io/badge/CSS3-161B22?style=for-the-badge&logo=css3&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-161B22?style=for-the-badge&logo=sass&logoColor=white)
-![Tailwind](https://img.shields.io/badge/tailwindcss-161B22.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-boostrap-161B22?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Bulma](https://img.shields.io/badge/bulma-161B22?style=for-the-badge&logo=bulma&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-161B22?style=for-the-badge&logo=css3&logoColor=1F6FEB)
+![Sass](https://img.shields.io/badge/Sass-161B22?style=for-the-badge&logo=sass&logoColor=1F6FEB)
+![Tailwind](https://img.shields.io/badge/tailwindcss-161B22.svg?style=for-the-badge&logo=tailwind-css&logoColor=1F6FEB)
+![Bootstrap](https://img.shields.io/badge/-boostrap-161B22?style=for-the-badge&logo=bootstrap&logoColor=1F6FEB)
+![Bulma](https://img.shields.io/badge/bulma-161B22?style=for-the-badge&logo=bulma&logoColor=1F6FEB)
 
-![JavaScript](https://img.shields.io/badge/JavaScript-161B22?style=for-the-badge&logo=javascript&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-161B22?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-161B22?style=for-the-badge&logo=react&logoColor=white)
-![Next](https://img.shields.io/badge/Next-161B22?style=for-the-badge&logo=next.js&logoColor=white)
-![Express](https://img.shields.io/badge/express.js-161B22.svg?style=for-the-badge&logo=express&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-161B22?style=for-the-badge&logo=javascript&logoColor=1F6FEB)
+![TypeScript](https://img.shields.io/badge/TypeScript-161B22?style=for-the-badge&logo=typescript&logoColor=1F6FEB)
+![React](https://img.shields.io/badge/React-161B22?style=for-the-badge&logo=react&logoColor=1F6FEB)
+![Next](https://img.shields.io/badge/Next-161B22?style=for-the-badge&logo=next.js&logoColor=1F6FEB)
+![Express](https://img.shields.io/badge/express.js-161B22.svg?style=for-the-badge&logo=express&logoColor=1F6FEB)
 
-![MySQL](https://img.shields.io/badge/MySQL-161B22?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-161B22?style=for-the-badge&logo=sqlite&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-161B22?style=for-the-badge&logo=postgresql&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-161B22?style=for-the-badge&logo=mariadb&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-161B22.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-161B22?style=for-the-badge&logo=mysql&logoColor=1F6FEB)
+![SQLite](https://img.shields.io/badge/SQLite-161B22?style=for-the-badge&logo=sqlite&logoColor=1F6FEB)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-161B22?style=for-the-badge&logo=postgresql&logoColor=1F6FEB)
+![MariaDB](https://img.shields.io/badge/MariaDB-161B22?style=for-the-badge&logo=mariadb&logoColor=1F6FEB)
+![MongoDB](https://img.shields.io/badge/MongoDB-161B22.svg?style=for-the-badge&logo=mongodb&logoColor=1F6FEB)
 
-![Azure](https://img.shields.io/badge/Azure-161B22?style=for-the-badge&logo=microsoft%20azure&logoColor=blue&labelColor=FFFFFF&link=https%3A%2F%2Fimages.app.goo.gl%2FK7PN1jYJd57x4q7A8)
-![AWS](https://img.shields.io/badge/AWS-161B22.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Clouflare](https://img.shields.io/badge/Cloudflare-161B22?style=for-the-badge&logo=Cloudflare&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-161B22.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-161B22?style=for-the-badge&logo=microsoft%20azure&logoColor=1F6FEB)
+![AWS](https://img.shields.io/badge/AWS-161B22.svg?style=for-the-badge&logo=amazonwebservices&logoColor=1F6FEB)
+![Clouflare](https://img.shields.io/badge/Cloudflare-161B22?style=for-the-badge&logo=Cloudflare&logoColor=1F6FEB)
+![Vercel](https://img.shields.io/badge/vercel-161B22.svg?style=for-the-badge&logo=vercel&logoColor=1F6FEB)
 
-![Figma](https://img.shields.io/badge/Figma-161B22?style=for-the-badge&logo=figma&logoColor=white)
-![Vscode](https://img.shields.io/badge/Vscode-161B22?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-161B22?style=for-the-badge&logo=figma&logoColor=1F6FEB)
+![Vscode](https://img.shields.io/badge/Vscode-161B22?style=for-the-badge&logo=visual-studio-code&logoColor=1F6FEB)
 
-
+### My stats
 <div style="display:flex">
     <a href="#">
       <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=GleristonCastro&theme=github_dark&show_icons=true&hide_border=true&bg_color=#0D1117" />
     </a>
     <a href="#">
-      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=GleristonCastro&layout=compact&langs_count=8&card_width=32&theme=dark&hide_border=true&bg_color=#0D1117" />
+      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=GleristonCastro&layout=compact&langs_count=8&card_width=32&theme=dark&hide_border=true&bg_color=0D1117" />
     </a>
 </div>
