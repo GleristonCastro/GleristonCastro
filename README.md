@@ -4,7 +4,7 @@
 
 ### About me
 
-##### Welcome to my repository! Here you will find a comprehensive collection of my projects, tracing my journey from the early steps in the programming field to the present day, with an emphasis on the most significant projects. With a deep passion for programming, I am constantly exploring and learning to enhance my skills. I am committed to seeking study and work opportunities in software development on an international scale. Feel free to explore my projects and follow my growth on this exciting technological journey!a
+##### Welcome to my repository! Here you will find a comprehensive collection of my projects, tracing my journey from the early steps in the programming field to the present day, with an emphasis on the most significant projects. With a deep passion for programming, I am constantly exploring and learning to enhance my skills. I am committed to seeking study and work opportunities in software development on an international scale. Feel free to explore my projects and follow my growth on this exciting technological journey!
 
 ### My social
 
