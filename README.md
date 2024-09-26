@@ -8,7 +8,7 @@
 
 ### My social
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=1F6FEB)](https://www.linkedin.com/in/gleriston/)a
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=1F6FEB)](https://www.linkedin.com/in/gleriston/)
 [![Discord](https://img.shields.io/badge/Discord-161B22?style=for-the-badge&logo=discord&logoColor=1F6FEB)](https://discord.com/channels/@gleristoncastro/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-161B22?style=for-the-badge&logo=todoist&logoColor=1F6FEB)](https://gleristoncastro.com.br)
 
