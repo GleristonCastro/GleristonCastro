@@ -1,6 +1,6 @@
 # My name is Gleriston
 
-### I'm from Brazil, 40 years old. Javascript Fullstack Developer
+### I'm from Brazil, 40 years old. Javascript Fullstack Developer.
 
 ### About me
 
