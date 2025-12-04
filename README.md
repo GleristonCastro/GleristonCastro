@@ -45,9 +45,9 @@
 ### My stats
 <div style="display:flex">
     <a href="#">
-      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=GleristonCastro&theme=github_dark&show_icons=true&hide_border=true&bg_color=#0D1117" />
+      <img height=200 align="center" src="https://streak-stats.demolab.com/api?username=GleristonCastro&theme=github_dark&show_icons=true&hide_border=true&bg_color=#0D1117" />
     </a>
     <a href="#">
-      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=GleristonCastro&layout=compact&langs_count=8&card_width=32&theme=dark&hide_border=true&bg_color=0D1117" />
+      <img height=200 align="center" src="https://streak-stats.demolab.com/api/top-langs?username=GleristonCastro&layout=compact&langs_count=8&card_width=32&theme=dark&hide_border=true&bg_color=0D1117" />
     </a>
 </div>
