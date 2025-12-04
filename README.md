@@ -43,4 +43,4 @@
 ![Vscode](https://img.shields.io/badge/Vscode-161B22?style=for-the-badge&logo=visual-studio-code&logoColor=1F6FEB)
 
 ### My stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=GleristonCastro&theme=dark&hide_border=true&border_radius=0&hide_total_contributions=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=GleristonCastro)](https://git.io/streak-stats)
