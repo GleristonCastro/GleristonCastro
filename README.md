@@ -43,11 +43,4 @@
 ![Vscode](https://img.shields.io/badge/Vscode-161B22?style=for-the-badge&logo=visual-studio-code&logoColor=1F6FEB)
 
 ### My stats
-<div style="display:flex">
-    <a href="#">
-      <img height=200 align="center" src="https://streak-stats.demolab.com/api?username=GleristonCastro&theme=github_dark&show_icons=true&hide_border=true&bg_color=#0D1117" />
-    </a>
-    <a href="#">
-      <img height=200 align="center" src="https://streak-stats.demolab.com/api/top-langs?username=GleristonCastro&layout=compact&langs_count=8&card_width=32&theme=dark&hide_border=true&bg_color=0D1117" />
-    </a>
-</div>
+[![GitHub Streak](https://streak-stats.demolab.com?user=GleristonCastro&theme=dark&hide_border=true&border_radius=0&hide_total_contributions=true)](https://git.io/streak-stats)
