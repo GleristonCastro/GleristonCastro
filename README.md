@@ -41,6 +41,3 @@
 
 ![Figma](https://img.shields.io/badge/Figma-161B22?style=for-the-badge&logo=figma&logoColor=1F6FEB)
 ![Vscode](https://img.shields.io/badge/Vscode-161B22?style=for-the-badge&logo=visual-studio-code&logoColor=1F6FEB)
-
-### My stats
-[![GitHub Streak](https://streak-stats.demolab.com/?user=GleristonCastro)](https://git.io/streak-stats)
